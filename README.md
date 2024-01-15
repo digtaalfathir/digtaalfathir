@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DigtaAl
+- 👀 I’m interested in embedded systems dev
+- 🌱 I’m currently learning unity & scratch
+- 💞️ I’m looking to collaborate on embedded systems dev
+- 📫 How to reach me digtaalfathir36@gmail.com
