@@ -5,7 +5,6 @@
   </a>
 </p>
 
-- 👀 I’m interested in embedded systems dev
-- 🌱 I’m currently learning unity & scratch
-- 💞️ I’m looking to collaborate on embedded systems dev
-- 📫 How to reach me digtaalfathir36@gmail.com
+<br/>
+
+A passionate [C++](https://isocpp.org/) developer with extensive experience in building and optimizing native applications on both [Linux](https://ubuntu.com/desktop) and [Windows](https://www.microsoft.com/en-us/windows) platforms. Skilled in computer vision development using [OpenCV](https://opencv.org/), shell scripts for [CI workflows](https://github.com/features/actions), and adept at building dynamic web applications with [Vue.js](https://vuejs.org/). A fast learner and versatile generalist, capable of working across various domains and technologies, always eager to take on new challenges and deliver innovative solutions.
