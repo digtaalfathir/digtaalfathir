@@ -6,6 +6,9 @@
   <a href="mailto:digtaalfathir36@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mail%20me-f14336?logo=gmail&style=flat-square"/>
   </a>
+<a href="https://www.instagram.com/digtalfthr_36/">
+    <img src="https://img.shields.io/badge/Instagram-follow%20me-E4405F?logo=instagram&style=flat-square"/>
+  </a>
 </p>
 
 <br/>
