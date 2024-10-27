@@ -9,6 +9,9 @@
 <a href="https://www.instagram.com/digtalfthr_36/">
     <img src="https://img.shields.io/badge/Insta-follow%20me-E4405F?logo=instagram&style=flat-square"/>
   </a>
+<a href="https://www.linkedin.com/in/rifky-andigta-alfathir-5b2228159/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin&style=flat-square"/>
+  </a>
 </p>
 
 <br/>
