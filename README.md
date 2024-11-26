@@ -12,6 +12,10 @@
 <a href="https://www.linkedin.com/in/rifky-andigta-alfathir-5b2228159/">
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin&style=flat-square"/>
   </a>
+<br/>
+<a href="https://digtaalfathir.github.io/">
+  <img src="https://img.shields.io/badge/My%20Website-visit%20now-2a66bc?logo=google-chrome&style=flat-square"/>
+</a>
 </p>
 
 <br/>
