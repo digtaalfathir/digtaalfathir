@@ -14,7 +14,7 @@
   </a>
 <br/>
 <a href="https://digtaalfathir.github.io/">
-  <img src="https://img.shields.io/badge/My%20Website-visit%20now-2a66bc?logo=google-chrome&style=flat-square"/>
+  <img src="https://img.shields.io/badge/My%20Website-visit%20now-ffff00?logo=google-chrome&style=flat-square"/>
 </a>
 </p>
 
