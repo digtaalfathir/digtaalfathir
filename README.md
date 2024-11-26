@@ -23,3 +23,9 @@ A passionate [C++](https://isocpp.org/) developer with extensive experience in b
 Aside from my current job, I also work on several personal projects.
 Currently, most of these projects are [GitHub repository templates](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) and [GitHub Actions](https://github.com/features/actions) for utilizing my other projects.
 Please refer to [my repositories](https://github.com/DigtaAl?tab=repositories) for a list of all projects that I have done.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
+  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
+</picture>
