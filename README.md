@@ -52,21 +52,38 @@ machines into a single, observable system.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square"/>
 </p>
 
-## Flagship Projects
+## Projects
 
 | Project | What it does |
 | --- | --- |
 | **Manufactura Connect** | Connects factory machines into one monitoring layer |
-| **Stechoq Ops Center** | Operations dashboard for production floor |
+| **Stechoq Ops Center** | Operations dashboard for the production floor |
 | **Open Protocol SDK** | Toolkit for industrial Open Protocol devices |
 | **Device Monitor** | Real-time device / sensor monitoring |
 | **Printer Toolkit** | Middleware for industrial printers |
 
-## Currently Building
+## Open Source — Digta Labs
 
-**Digta Labs** — an open-source ecosystem of small, composable packages:
+An ecosystem of small, composable packages that my apps are built on:
 
 `@digta/logger` · `@digta/network` · `@digta/open-protocol` · `@digta/printer`
+
+## Currently Building
+
+- 🔧 Open Protocol simulator + SDK
+- 📡 Device monitoring dashboard
+- 📦 First `@digta` packages on npm
+
+## Roadmap
+
+Where this is all heading — a 3-year plan to build the
+**Systems & Automation Engineer** brand: **[ROADMAP.md](ROADMAP.md)**
+
+## Contact
+
+- ✉️ [digtaalfathir36@gmail.com](mailto:digtaalfathir36@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rifky-andigta-alfathir-5b2228159/)
+- 🌐 [digtaalfathir.github.io](https://digtaalfathir.github.io/)
 
 ## Stats
 
