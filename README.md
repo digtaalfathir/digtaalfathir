@@ -31,12 +31,12 @@ machines into a single, observable system.
 
 ## Focus
 
-- **Automation** — RPA, pipelines, and tools that remove manual work
-- **Desktop Applications** — Electron / native apps for industrial use
-- **Embedded Systems** — ESP32 and device-level firmware
-- **Industrial Communication** — Open Protocol, TCP, printers, sensors
-- **Developer Tools** — SDKs, CLIs, and libraries
-- **Open Source** — reusable packages under `@digta`
+- **Automation** — RPA & tools that remove manual work · _Autopath_
+- **Monitoring & Remote Ops** — real-time 2D/3D dashboards, SSH/VNC · _Twinscape_
+- **Industrial Communication** — Modbus, MC Protocol, Open Protocol, TCP · _Protokit_
+- **Embedded Systems** — ESP32/ESP8266 firmware & IoT · _Pinstream_
+- **Developer Tools & Open Source** — SDKs and libraries under `@digta`
+- **Security Research** — WiFi/network security tooling (lab & educational) · _BayRecon_
 
 ## Tech Stack
 
@@ -56,23 +56,23 @@ machines into a single, observable system.
 
 | Project | What it does |
 | --- | --- |
-| **Manufactura Connect** | Connects factory machines into one monitoring layer |
-| **Stechoq Ops Center** | Operations dashboard for the production floor |
-| **Open Protocol SDK** | Toolkit for industrial Open Protocol devices |
-| **Device Monitor** | Real-time device / sensor monitoring |
-| **Printer Toolkit** | Middleware for industrial printers |
+| **Autopath** | Visual RPA workflow designer — design the path, the bot walks it |
+| **Twinscape** | Web ops console — live 2D/3D monitoring + remote SSH/VNC |
+| **Protokit** | Device comms libraries — Modbus, MC Protocol, Open Protocol (npm monorepo) |
+| **Pinstream** | ESP32 firmware — GPIO I/O streamed live over WebSocket |
+| **BayRecon** | ESP8266 WiFi security toolkit — for research & lab testing |
 
 ## Open Source — Digta Labs
 
 An ecosystem of small, composable packages that my apps are built on:
 
-`@digta/logger` · `@digta/network` · `@digta/open-protocol` · `@digta/printer`
+`@digta/modbus` · `@digta/mcprotocol` · `@digta/openprotocol` (via **Protokit**) · `@digta/logger`
 
 ## Currently Building
 
-- 🔧 Open Protocol simulator + SDK
-- 📡 Device monitoring dashboard
-- 📦 First `@digta` packages on npm
+- 📦 First `@digta` packages on npm — Modbus, MC Protocol, Open Protocol (**Protokit**)
+- 🌐 **Twinscape** — 2D/3D web ops console with SSH/VNC
+- 🔧 **BayInit** — one-command Linux provisioning (`curl | sh`)
 
 ## Roadmap
 
