@@ -58,21 +58,23 @@ machines into a single, observable system.
 | --- | --- |
 | **Autopath** | Visual RPA workflow designer — design the path, the bot walks it |
 | **Twinscape** | Web ops console — live 2D/3D monitoring + remote SSH/VNC |
-| **Protokit** | Device comms libraries — Modbus, MC Protocol, Open Protocol (npm monorepo) |
+| **Protokit** | Industrial comms libraries — Modbus, MC Protocol, Open Protocol, FINS (npm) |
 | **Pinstream** | ESP32 firmware — GPIO I/O streamed live over WebSocket |
 | **BayRecon** | ESP8266 WiFi security toolkit — for research & lab testing |
 
 ## Open Source — Digta Labs
 
-An ecosystem of small, composable packages that my apps are built on:
+A growing ecosystem of composable npm packages under [`@digta`](https://www.npmjs.com/search?q=%40digta):
 
-`@digta/modbus` · `@digta/mcprotocol` · `@digta/openprotocol` (via **Protokit**) · `@digta/logger`
+**Industrial protocols** — [modbus](https://www.npmjs.com/package/@digta/modbus) · [mcprotocol](https://www.npmjs.com/package/@digta/mcprotocol) · [open-protocol](https://www.npmjs.com/package/@digta/open-protocol) · [fins](https://www.npmjs.com/package/@digta/fins)
+
+**Toolkit** — [network](https://www.npmjs.com/package/@digta/network) · [codec](https://www.npmjs.com/package/@digta/codec) · [config](https://www.npmjs.com/package/@digta/config) · [logger](https://www.npmjs.com/package/@digta/logger)
 
 ## Currently Building
 
-- 📦 First `@digta` packages on npm — Modbus, MC Protocol, Open Protocol (**Protokit**)
+- 📚 Docs & examples for the `@digta` packages
 - 🌐 **Twinscape** — 2D/3D web ops console with SSH/VNC
-- 🔧 **BayInit** — one-command Linux provisioning (`curl | sh`)
+- 🤖 **Autopath** — visual RPA workflow designer
 
 ## Roadmap
 
