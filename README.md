@@ -82,6 +82,13 @@ A growing ecosystem of composable npm packages under [`@digta`](https://www.npmj
 - 💼 [LinkedIn](https://www.linkedin.com/in/rifky-andigta-alfathir-5b2228159/)
 - 🌐 [digtaalfathir.github.io](https://digtaalfathir.github.io/)
 
+## Stats
+
+<p align="center">
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
+</p>
+
 ## Activity
 
 <picture>
