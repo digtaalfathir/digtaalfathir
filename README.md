@@ -76,11 +76,6 @@ A growing ecosystem of composable npm packages under [`@digta`](https://www.npmj
 - 🌐 **Twinscape** — 2D/3D web ops console with SSH/VNC
 - 🤖 **Autopath** — visual RPA workflow designer
 
-## Roadmap
-
-Where this is all heading — a 3-year plan to build the
-**Systems & Automation Engineer** brand: **[ROADMAP.md](ROADMAP.md)**
-
 ## Contact
 
 - ✉️ [digtaalfathir36@gmail.com](mailto:digtaalfathir36@gmail.com)
