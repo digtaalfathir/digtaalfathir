@@ -87,12 +87,7 @@ Where this is all heading — a 3-year plan to build the
 - 💼 [LinkedIn](https://www.linkedin.com/in/rifky-andigta-alfathir-5b2228159/)
 - 🌐 [digtaalfathir.github.io](https://digtaalfathir.github.io/)
 
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digtaalfathir&show_icons=true&hide_border=true&theme=default"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digtaalfathir&layout=compact&hide_border=true&theme=default"/>
-</p>
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
