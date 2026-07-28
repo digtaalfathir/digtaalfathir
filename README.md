@@ -1,7 +1,4 @@
 <h1 align="center">Rifky Andigta Al-Fathir</h1>
-<p align="center">
-  <img src="cat.webp" width="50"/>
-</p>
 <p align="center"><b>⚙️ Systems &amp; Automation Engineer</b></p>
 <p align="center"><i>I build systems that connect machines, software, and people.</i></p>
 
@@ -72,9 +69,9 @@ A growing ecosystem of composable npm packages under [`@digta`](https://www.npmj
 
 ## Currently Building
 
-- 📚 Docs & examples for the `@digta` packages
-- 🌐 **Twinscape** — 2D/3D web ops console with SSH/VNC
-- 🤖 **Autopath** — visual RPA workflow designer
+- 📦 Growing the `@digta` open-source ecosystem
+- ✍️ Writing about industrial comms, ESP32 & automation
+- 🔧 Polishing firmware flagships — Pinstream & BayRecon
 
 ## Contact
 
@@ -92,7 +89,7 @@ A growing ecosystem of composable npm packages under [`@digta`](https://www.npmj
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+  <img alt="Contribution snake" src="./profile/snake.svg" />
 </picture>
