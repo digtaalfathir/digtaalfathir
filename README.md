@@ -69,9 +69,9 @@ A growing ecosystem of composable npm packages under [`@digta`](https://www.npmj
 
 ## Currently Building
 
-- 📦 Growing the `@digta` open-source ecosystem
-- ✍️ Writing about industrial comms, ESP32 & automation
-- 🔧 Polishing firmware flagships — Pinstream & BayRecon
+- Growing the `@digta` open-source ecosystem
+- Writing about industrial comms, ESP32 & automation
+- Polishing firmware flagships — Pinstream & BayRecon
 
 ## Contact
 
