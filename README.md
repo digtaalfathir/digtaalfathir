@@ -53,11 +53,11 @@ machines into a single, observable system.
 
 | Project | What it does |
 | --- | --- |
-| **Autopath** | Visual RPA workflow designer — design the path, the bot walks it |
-| **Twinscape** | Web ops console — live 2D/3D monitoring + remote SSH/VNC |
-| **Protokit** | Industrial comms libraries — Modbus, MC Protocol, Open Protocol, FINS (npm) |
-| **Pinstream** | ESP32 firmware — GPIO I/O streamed live over WebSocket |
-| **BayRecon** | ESP8266 WiFi security toolkit — for research & lab testing |
+| [**Autopath**](https://github.com/digtaalfathir/autopath) | Visual RPA workflow designer — design the path, the bot walks it |
+| [**Twinscape**](https://github.com/digtaalfathir/twinscape) | Web ops console — live 2D/3D monitoring + remote SSH/VNC |
+| [**Protokit**](https://github.com/digtaalfathir/protokit) | Industrial comms libraries — Modbus, MC Protocol, Open Protocol, FINS (npm) |
+| [**Pinstream**](https://github.com/digtaalfathir/pinstream) | ESP32 firmware — GPIO I/O streamed live over WebSocket |
+| [**BayRecon**](https://github.com/digtaalfathir/bayrecon) | ESP8266 WiFi security toolkit — for research & lab testing |
 
 ## Open Source — Digta Labs
 
